@@ -5,9 +5,9 @@ var Controls = function() {
 	var audioParams = {
 		useMic: false,
 		useSample:true,
-		volSens:1,
-		beatHoldTime:8,
-		beatDecayRate:0.95,		
+		volSens:1.5,
+		beatHoldTime:6,
+		beatDecayRate:0.93,		
 	};
 
 	function init(){
